@@ -1,0 +1,25 @@
+# Archivos temporales de Python
+
+__pycache__/
+
+*.py[cod]
+
+
+
+# Entornos virtuales
+
+.venv/
+
+venv/
+
+
+
+# Archivos de configuración privados
+
+.env
+
+
+
+# Caché de pruebas
+
+.pytest_cache/
